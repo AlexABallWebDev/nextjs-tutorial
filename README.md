@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is Alex's basic Next.js app created by following through the tutorial at [Learn Next.js](https://nextjs.org/learn).
